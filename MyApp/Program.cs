@@ -10,7 +10,7 @@ class Program
 
     {
 
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World! 12121212121212");
 
         GreetUser("User");
 
@@ -22,7 +22,7 @@ class Program
 
     {
 
-        Console.WriteLine($"Hello, {name}!");
+        Console.WriteLine($"Hell12121212o, {name}!");
 
     }
 
